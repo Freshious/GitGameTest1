@@ -1,5 +1,5 @@
 Line 1 Hallo Gitworld
 Line 2 quark@gurke.de
 Line 3 Wesswegen?
-Line 4 Keine ahnung, steht so im ticket!
+Line 4 Keine Ahnung, steht so im ticket!
 Line 5 Die letzten werden die Ersten sein!
