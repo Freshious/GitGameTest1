@@ -1,5 +1,5 @@
-Line 1 Hallo Gitworld
-Line 2 quark@gurke.de
-Line 3 Wesswegen?
-Line 4 Keine Ahnung, steht so im Ticket!
-Line 5 Die Letzten werden die Ersten sein!
+Zeile 1 Hallo Gitworld
+Zeile 2 quark@gurke.de
+Zeile 3 Wesswegen?
+Zeile 4 Keine Ahnung, steht so im Ticket!
+Zeile 5 Die Letzten werden die Ersten sein!
